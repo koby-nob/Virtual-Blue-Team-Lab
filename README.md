@@ -10,8 +10,8 @@
          
 <h2>Operating System Used </h2>
 
-         - Host machine: Parrot OS Linux 
-         - Victim machine: Ubuntu Linux
+         - Host machine: Parrot OS Linux - IP- 10.1.6.25
+         - Victim machine: Ubuntu Linux  - IP- 10.1.6.200
 
 <h2>Installation Steps </h2>
 
@@ -41,5 +41,5 @@
 <img width="1130" height="312" alt="Screenshot 2c_pinging parrot machine successfully with timestamp and date" src="https://github.com/user-attachments/assets/568b8a9e-c75f-4b86-8bf4-147fb07978a0" />
 
 
-    - Type: - Type: ping 10.1.6.200 -c 4 | ts '[%Y-%m-%d %H:%M:%S]'
+    - Type: ping 10.1.6.200 -c 4 | ts '[%Y-%m-%d %H:%M:%S]'
 
