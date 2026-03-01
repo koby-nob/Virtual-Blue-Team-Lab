@@ -13,7 +13,7 @@
          - Host machine: Parrot OS Linux - IP- 10.1.6.25
          - Victim machine: Ubuntu Linux  - IP- 10.1.6.200
 
-<h2>Installation Steps </h2>
+<h2> Check Screenshots below: </h2>
 
  - Screenshot 1- Windows specs
 
