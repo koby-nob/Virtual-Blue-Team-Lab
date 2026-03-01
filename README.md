@@ -22,7 +22,7 @@
     - Find out what your widows specs of your system
     - On Window > right click the start button > select system, and post screenshot
 
- - Screenshot 2- using ifconfig command host machine
+ - Screenshot 2- using ifconfig command
 
 <img width="798" height="660" alt="screenshot" src="https://github.com/user-attachments/assets/74a040a0-82a4-4fde-abd4-b7630d7aa2ec" />
 
